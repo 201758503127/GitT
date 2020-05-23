@@ -6,4 +6,7 @@ public class test {
         System.out.println("hello Git");
         System.out.println("hello Git");
     }
+    public void test(){
+
+    }
 }
